@@ -1,0 +1,7 @@
+spring.datasource.driverClassName: "com.mysql.jdbc.Driver"
+spring.datasource.url: "jdbc:mysql://127.0.0.1:3306/SPMIA"
+spring.datasource.username: "root"
+spring.datasource.password: "123456"
+spring.jpa.hibernate.ddl-auto: "update"
+spring.jpa.show-sql: "true"
+signing.key: "345345fsdfsf5345"

@@ -3,6 +3,7 @@ zuul.prefix:  /api
 zuul.routes.organization-service: /organization/**
 zuul.routes.licensing-service: /licensing/**
 zuul.routes.auth-service: /auth/**
+zuul.sensitiveHeaders: Cookie,Set-Cookie
 #zuul.sensitiveHeaders: Authorization
 zuul.ignored-headers: Authorization, authorization
 

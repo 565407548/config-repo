@@ -1,4 +1,5 @@
-zuul.ignored-services: "orgservice-new"
+#zuul.ignored-services: "orgservice-new"
+zuul.ignored-services: "*"
 zuul.prefix:  /api
 zuul.routes.organization-service: /organization-service/**
 zuul.routes.organization-service-new: /organization-service-new/**

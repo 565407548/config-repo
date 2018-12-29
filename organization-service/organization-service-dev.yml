@@ -6,3 +6,4 @@ spring.jpa.hibernate.ddl-auto: "update"
 spring.jpa.show-sql: "true"
 signing.key: "345345fsdfsf5345"
 spmia.organization.pageSize: 15
+spmia.organization.pageSize1: 16

@@ -5,3 +5,4 @@ spring.datasource.password: "123456"
 spring.jpa.hibernate.ddl-auto: "update"
 spring.jpa.show-sql: "true"
 signing.key: "345345fsdfsf5345"
+spmia.organization.pageSize: 16

@@ -5,6 +5,7 @@ zuul.routes.organization-service: /organization-service/**
 zuul.routes.organization-service-new: /organization-service-new/**
 zuul.routes.licensing-service: /licensing-service/**
 zuul.routes.auth-service: /auth-service/**
+zuul.routes.interest-service: /interest-service/**
 zuul.sensitiveHeaders: Cookie,Set-Cookie
 #zuul.sensitiveHeaders: Authorization
 #zuul.ignored-headers: Authorization, authorization

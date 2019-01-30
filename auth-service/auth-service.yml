@@ -5,3 +5,7 @@ spring.datasource.password: "123456"
 spring.jpa.hibernate.ddl-auto: "update"
 spring.jpa.show-sql: "true"
 signing.key: "345345fsdfsf5345"
+github.client-id: 你在github中注册的client id
+github.client-secret: 你在github中注册的client secret
+qq.appid: 你在qq中注册的appid
+qq.appkey: 你在qq中注册的appkey
